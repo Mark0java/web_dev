@@ -1,3 +1,3 @@
 Course “Web Development and Web Design”
 # Project 1
-Author: Marko Zaluskyi
+Author: Serhii Bukin
